@@ -1,0 +1,2 @@
+var myFirstName = "sumaiya";
+var myLastName = "afrin";
